@@ -878,9 +878,6 @@ rr17---sn-bg0eznll.googlevideo.com
 rr18---sn-bg0eznll.googlevideo.com
 rr19---sn-bg0eznll.googlevideo.com
 rr20---sn-bg0eznll.googlevideo.com
-root@Rasphouse:/home/pi#
-cat
-yt2-blocks.txt
 r1.sn-bg07dn6r.googlevideo.com
 r2.sn-bg07dn6r.googlevideo.com
 r3.sn-bg07dn6r.googlevideo.com
