@@ -3,6 +3,7 @@ r1---sn-bg0s7n7z.googlevideo.com
 r1---sn-nh5guuxaxjvhcg-gxjl.googlevideo.com
 r2---sn-bg0eznsr.googlevideo.com
 r2---sn-bg0eznzs.googlevideo.com
+r2---sn-bg0eznzy.googlevideo.com
 r2---sn-bg0s7n7s.googlevideo.com
 r2---sn-bg0s7nls.googlevideo.com
 r2---sn-jucj-4aoe.googlevideo.com
