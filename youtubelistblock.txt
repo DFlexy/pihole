@@ -1,4 +1,5 @@
 
+r1---sn-v2upuxa-xghe.googlevideo.com
 rr1---sn-8p8v-jo4s.googlevideo.com
 rr1---sn-jucj-0qpk.googlevideo.com
 rr1---sn-jucj-0qpz.googlevideo.com
@@ -8,4 +9,8 @@ rr3---sn-jucj-0qpd.googlevideo.com
 rr3---sn-jucj-0qpk.googlevideo.com
 rr4---sn-jucj-0qpz.googlevideo.com
 rr5---sn-jucj-0qpk.googlevideo.com
+rr6---sn-jucj-0qps.googlevideo.com
+rr7---sn-jucj-0qps.googlevideo.com
+rr7---sn-jucj-0qpz.googlevideo.com
+rr8---sn-jucj-0qpl.googlevideo.com
 rr8---sn-jucj-0qps.googlevideo.com
