@@ -9,4 +9,6 @@ rr3---sn-jucj-0qpk.googlevideo.com
 rr3---sn-jucj-0qps.googlevideo.com
 rr4---sn-jucj-0qpk.googlevideo.com
 rr4---sn-jucj-0qpl.googlevideo.com
+rr4---sn-jucj-0qpz.googlevideo.com
 rr5---sn-jucj-0qpk.googlevideo.com
+rr7---sn-jucj-0qpl.googlevideo.com
