@@ -1,11 +1,9 @@
 
 r1---sn-v2upuxa-xghe.googlevideo.com
-rr1---sn-bg0ezn7s.googlevideo.com
 rr1---sn-jucj-0qpd.googlevideo.com
 rr1---sn-jucj-0qpk.googlevideo.com
 rr1---sn-jucj-0qpl.googlevideo.com
 rr1---sn-jucj-0qps.googlevideo.com
-rr1---sn-jucj-0qpz.googlevideo.com
 rr2---sn-jucj-0qp6.googlevideo.com
 rr2---sn-jucj-0qpd.googlevideo.com
 rr2---sn-jucj-0qpk.googlevideo.com
