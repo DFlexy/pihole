@@ -26,3 +26,4 @@ rr6---sn-jucj-0qps.googlevideo.com
 r1---sn-jucj-4aoe.googlevideo.com
 rr1---sn-jucj-0qpz.googlevideo.com
 rr6---sn-jucj-0qpz.googlevideo.com
+rr2---sn-jucj-0qpz.googlevideo.com
